@@ -8,3 +8,5 @@ console.log(nome + " " + sobrenome);
 console.log(nome, sobrenome);
 
  console.log(`Meu nome é ${nome} ${sobrenome}`);
+
+ // Usar sempre const quando declarar variáveis
